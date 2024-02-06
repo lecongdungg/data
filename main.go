@@ -17,12 +17,12 @@ import (
 )
 
 const (
-	appName        = "Brainfuck Tunnel"
+	appName        = "DÙNG MIỄN PHÍ DATA 4G"
 	appVersionName = "Psiphon Pro Go"
-	appVersionCode = "1.3.210109"
+	appVersionCode = "V1"
 
-	copyrightYear   = "2020"
-	copyrightAuthor = "Aztec Rabbit"
+	copyrightYear   = "2024"
+	copyrightAuthor = "LE CONG DUNG"
 )
 
 var (
