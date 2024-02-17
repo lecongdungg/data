@@ -1,3 +1,6 @@
+# MUỐN SỬ DỤNG MẠNG MẠNH HƠN GIÁ RẺ TẠI BUGDATA4G.COM.
+https://bugdata4g.com/
+
 # CÁCH SỬ DỤNG 4G MIỄN PHÍ.
 # LƯU Ý: SIM VIETTEL + ĐIỆN THOẠI HỆ ĐIỀU HÀNH ANDROID 
 
