@@ -1,3 +1,7 @@
+# ỦNG HỘ TÔI GÓI MÌ TẠI NGÂN HÀNG MB BANK, SỐ TÀI KHOẢN: 111221234, TÊN: LE CONG DUNG.
+![image](https://github.com/lecongdungg/data/assets/136092233/320152b6-0906-4e84-9c2d-d37fb024babc)
+
+
 # MUỐN SỬ DỤNG MẠNG MẠNH HƠN GIÁ RẺ TẠI BUGDATA4G.COM.
 https://bugdata4g.com/
 
